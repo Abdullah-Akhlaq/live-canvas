@@ -1,0 +1,15 @@
+.home-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  justify-content: center;
+
+  .button {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(26, 29, 29);
+    margin-top: 10px;
+    color: aliceblue;
+  }
+}
